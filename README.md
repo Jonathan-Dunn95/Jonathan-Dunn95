@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Hello! I'm a new software developer currently enrolled in Tech Elevator. I was a Paramedic for 5 years and am looking forward to a new career in programming.
 <!--
 **Jonathan-Dunn95/Jonathan-Dunn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
